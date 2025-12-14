@@ -5,4 +5,4 @@ instagram.com##a[href='/reels/']
 ! hide explore link
 instagram.com##a[href='/explore/']
 ! hide notes
-instagram.com##[role='presentation']
+instagram.com##div[data-pagelet="IGDInboxThreadListScrollableAreaPagelet"] div[role="presentation"]
