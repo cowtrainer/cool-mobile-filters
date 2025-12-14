@@ -53,3 +53,6 @@ instagram.com##a[href*='threads.net']
 
 ! Block stories and posts on home feed (block posts is buggy so this is good alternative)
 instagram.com##body:has(div[data-pagelet='story_tray']) [role=main]
+
+! Block notes
+instagram.com/direct/inbox##[role='presentation']
